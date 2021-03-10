@@ -9,7 +9,7 @@ This is the link for the [dataset](https://www.kaggle.com/c/stumbleupon/data)
 # Approach
 
 
-- For this problem statement i used pretrained DistilBert transformer which had a Sequence to Sequence classifier.
+- For this problem statement i used pretrained DistilBert transformer which had a Sequence to Sequence classifier for calssification purposes.
 - DistilBert had a pretrained tokenizer which helped me to tokenize the sentences .
 - I used trainer for training purposes .
 
